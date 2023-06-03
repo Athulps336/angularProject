@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+.search-button{
+    background-color: yellow;
+}
+
+.search-button:hover{
+    background-color: rgb(255, 254, 254);
+    color: black;
+}
+
+ul li a  :hover{
+ color: white;
+}
